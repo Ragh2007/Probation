@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349527329018",
+    "project_id": "reading-app-b83be",
+    "storage_bucket": "reading-app-b83be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349527329018:android:033820e279faaaf4cca143",
+        "android_client_info": {
+          "package_name": "com.example.reading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349527329018-d8pu1r3g98qbis62fjn4v884j5ufp8g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARFpKRuMrQZgwzvr8hmtr4TyTyBOSewFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349527329018-d8pu1r3g98qbis62fjn4v884j5ufp8g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

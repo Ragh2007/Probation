@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});
@@ -191,7 +192,7 @@ class Home extends StatelessWidget {
             Divider(color: Colors.black, thickness: 1, indent: 42, endIndent: 31),
             SizedBox(height: 412),
             GestureDetector(
-              onTap: () {},
+              onTap: () {SystemNavigator.pop();},
               child: SizedBox(
                 width: 199,
                 height: 40,
